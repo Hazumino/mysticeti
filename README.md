@@ -1,10 +1,5 @@
-# Mysticeti
+# Dual-Mode DAG-Based Consensus Protocol
 
-[![rustc](https://img.shields.io/badge/rustc-1.72+-blue?style=flat-square&logo=rust)](https://www.rust-lang.org)
-[![license](https://img.shields.io/badge/license-Apache-blue.svg?style=flat-square)](LICENSE)
 
-The code in this branch is a prototype of Mysticeti. It supplements the paper [Mysticeti: Low-Latency DAG Consensus with Fast Commit Path](https://arxiv.org/abs/2310.14821) enabling reproducible results. There are no plans to maintain this branch.
+The code in this branch utilises code from the [Mysticeti Consensus Protocol]() as basis, alognside integrating features from the [Mahi-Mahi Consensus Protocol]() with the aim of creating a dual-mode DAG-based Consensus Protocol.
 
-## License
-
-This software is licensed as [Apache 2.0](LICENSE).
